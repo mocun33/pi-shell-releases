@@ -1,0 +1,1 @@
+{"version":"0.1.1","url":"https://github.com/mocun33/pi-shell-releases/releases/download/v0.1.1/Pi.exe","sha256":"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA","notes":"J6 real-source negative case B: deliberate wrong sha256 (64 x A) - expect hash_verify fail + rollback"}
