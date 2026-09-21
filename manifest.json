@@ -1,1 +1,1 @@
-{"version":"0.1.1","url":"https://github.com/mocun33/pi-shell-releases/releases/download/v0.1.1/Pi.exe","sha256":"eb7e9341deaa12b4c34952ddf6efaf0c2b25c6c46dc5ee1c5d370e4d1c605968","notes":"pi-shell v0.1.1 (Windows x64) - J6 real-source verification release"}
+{"version":"0.1.2","url":"https://github.com/mocun33/pi-shell-releases/releases/download/v0.1.2/Pi.exe","sha256":"7795f32415907024e323b86d79dfbd3ffb43bf911985ffd6df9e184e651797df","notes":"pi-shell v0.1.2 (Windows x64) - updater curl retry hardening (--retry 3 --retry-delay 2 --retry-all-errors)"
